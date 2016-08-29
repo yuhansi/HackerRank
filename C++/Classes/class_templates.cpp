@@ -1,3 +1,4 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -5,6 +6,7 @@
 #include <algorithm>
 #include <cassert>
 using namespace std;
+*/
 
 /*Write the class AddElements here*/
 template <class T> class AddElements {
@@ -29,7 +31,7 @@ template <> class AddElements <string> {
 		}
 	private:
 };
-
+/*
 int main() {
 	int n, i;
 	cin >> n;
@@ -57,3 +59,4 @@ int main() {
 	}
 	return 0;
 }
+*/

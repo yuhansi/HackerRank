@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <iomanip>
 #include <limits>
@@ -8,7 +9,7 @@ int main() {
 	int i = 4;
 	double d = 4.0;
 	string s = "HackerRank ";
-	
+*/
 	// Declare second integer, double, and String variables.
    	int j;
    	double e;
@@ -25,6 +26,7 @@ int main() {
    	// Concatenate and print the String variables on a new line
    	// The 's' variable above should be printed first.
    	cout << s + s2 << endl;
-   
+/*
    	return 0;
 }
+*/

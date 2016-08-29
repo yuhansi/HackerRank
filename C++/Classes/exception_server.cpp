@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <exception>
 #include <string>
@@ -35,6 +36,7 @@ int main() {
 	while(T--) {
 		long long A, B;
 		cin >> A >> B;
+*/
 		/* Enter your code here. */
         try {
             int result = Server::compute(A, B);
@@ -52,8 +54,9 @@ int main() {
         catch(...) {
             cout << "Other Exception" << endl;
         }
-
+/*
 	}
 	cout << Server::getLoad() << endl;
 	return 0;
 }
+*/

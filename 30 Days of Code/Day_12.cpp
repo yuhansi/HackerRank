@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <vector>
 
@@ -18,7 +19,7 @@ class Person {
 			cout << "Name: " << lastName << ", " << firstName << "\nID: " << id << "\n";
 		}
 };
-
+*/
 class Student : public Person {
 	private:
 		vector<int> testScores;  
@@ -47,7 +48,7 @@ class Student : public Person {
             	return 'O';
     }
 };
-
+/*
 int main() {
 	string firstName;
 	string lastName;
@@ -65,3 +66,4 @@ int main() {
 	cout << "Grade: " << s->calculate() << "\n"
 	return 0;
 }
+*/

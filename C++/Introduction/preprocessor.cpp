@@ -3,7 +3,7 @@
 #define FUNCTION(name, operator) inline void name(int &current, int compared) {!(current operator compared) ? current = compared : false;}
 #define INF (unsigned)!((int)0)
 #define foreach(v, i) for(int i = 0; i < v.size(); ++i)
-
+/*
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -32,3 +32,4 @@ int main() {
 	cout << toStr(Result =) << ' ' << ans;
 	return 0;
 }
+*/

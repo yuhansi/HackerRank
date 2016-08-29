@@ -1,9 +1,12 @@
+/*
 #include <iostream>
 using namespace std;
 enum class Fruit { apple, orange, pear };
 enum class Color { red, green, orange };
 
 template <typename T> struct Traits;
+*/
+
 // Define specializations for the Traits class template here.
 template <> struct Traits <Fruit> {
 	static string name(int n) {
@@ -24,6 +27,7 @@ template <> struct Traits <Color> {
 	}
 };
 
+/*
 int main() {
 	int t = 0;
 	std::cin >> t;
@@ -37,3 +41,4 @@ int main() {
 		cout << Traits<Fruit>::name(index2) << "\n";
 	}
 }
+*/

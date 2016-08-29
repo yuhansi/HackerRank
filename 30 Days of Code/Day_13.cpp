@@ -1,3 +1,4 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -16,7 +17,7 @@ class Book {
 		}
 		virtual void display() = 0;
 };
-
+*/
 //Write MyBook class
 class MyBook : public Book {
     private:
@@ -31,7 +32,7 @@ class MyBook : public Book {
             cout << "Price: " << price << endl;
         }
 };
-
+/*
 int main() {
 	string title, author;
 	int price;
@@ -42,3 +43,4 @@ int main() {
 	novel.display();
 	return 0;
 }
+*/

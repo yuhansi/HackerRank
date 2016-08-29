@@ -1,3 +1,4 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -11,7 +12,7 @@ class Difference {
 		vector<int> elements;
 	public:
 		int maximumDifference;
-		
+*/	
 	// Add your code here
     Difference(vector<int> a) { 
         elements = a;
@@ -20,7 +21,8 @@ class Difference {
         sort(elements.begin(), elements.end());
         maximumDifference = elements[elements.size()-1] - elements[0];
     }
-};
+/*
+}; // End of Difference class
 
 int main() {
 	int N;
@@ -43,3 +45,4 @@ int main() {
 	
 	return 0;
 }
+*/

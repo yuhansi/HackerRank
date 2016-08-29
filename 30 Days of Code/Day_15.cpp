@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <cstddef>
 using namespace std;
@@ -12,6 +13,7 @@ class Node {
 };
 class Solution {
 	public:
+*/
 		Node* insert(Node *head, int data) {
 			//Complete this method
         	Node* newhead = new Node(data);
@@ -27,6 +29,7 @@ class Solution {
               	return newhead;
           	}
       	}
+/*
       	void display(Node *head) {
       		Node *start = head;
       		while(start) {
@@ -46,3 +49,4 @@ int main() {
 	}
 	mylist.display(head);
 }
+*/

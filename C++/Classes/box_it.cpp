@@ -1,3 +1,4 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -7,6 +8,7 @@
 using namespace std;
 
 int BoxesCreated, BoxesDestroyed;
+*/
 
 //Implement the class Box  
 //l,b,h are integers representing the dimensions of the box
@@ -77,6 +79,7 @@ ostream& operator<< (ostream& out, const Box b) {
 	return out;
 }
 
+/*
 void check2() {
 	int n;
 	cin >> n;
@@ -121,3 +124,4 @@ int main() {
 	check2();
 	cout << "Boxes Created : " << BoxesCreated << endl << "Boxes Destroyed : " << BoxesDestroyed << endl;
 }
+*/

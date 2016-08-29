@@ -1,10 +1,11 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+*/
 class Matrix {
 	public:
 		vector<vector<int> > a;
@@ -18,6 +19,7 @@ class Matrix {
 			return *this;
 		}
 };
+/*
 int main() {
 	int cases, k;
 	cin >> cases;
@@ -55,3 +57,4 @@ int main() {
 	}
 	return 0;
 }
+*/

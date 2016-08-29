@@ -1,3 +1,4 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -5,6 +6,7 @@
 #include <algorithm>
 #include <cassert>
 using namespace std;
+*/
 
 // Write your Student class here
 class Student {
@@ -23,7 +25,7 @@ class Student {
 			return sum;
 		}
 };
-
+/*
 int main() {
 	int n; // number of students
 	cin >> n;
@@ -50,3 +52,4 @@ int main() {
 	
 	return 0;
 }
+*/

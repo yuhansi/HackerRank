@@ -1,5 +1,7 @@
+/*
 using namespace std;
 #include <iostream>
+*/
 
 class Person {
 	public:
@@ -33,7 +35,7 @@ void Person::yearPasses() {
 	// Increment the age of the person in here
    	age++;
 }
-
+/*
 int main() {
 	int t;
 	int age;
@@ -52,3 +54,4 @@ int main() {
 	
 	return 0;
 }
+*/

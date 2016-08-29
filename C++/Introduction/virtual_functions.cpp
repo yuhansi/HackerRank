@@ -1,9 +1,11 @@
+/*
 #include <cmath>
 #include <cstdio>
 #include <vector>
 #include <iostream>
 #include <algorithm>
 using namespace std;
+*/
 
 int i = 1;
 int j = 1;
@@ -54,6 +56,7 @@ class Student : public Person {
 		cout << name << " " << age << " " << sumScore << " " << curId << endl;
 	}
 };
+/*
 int main() {
 	int n, val;
 	cin >> n; //The number of objects that is going to be created.
@@ -78,3 +81,4 @@ int main() {
 	}
 	
 }
+*/

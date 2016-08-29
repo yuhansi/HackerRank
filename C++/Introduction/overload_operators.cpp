@@ -1,3 +1,4 @@
+/*
 //Operator Overloading
 
 #include <iostream>
@@ -26,6 +27,8 @@ class Complex {
 			b = v2;
 		}
 };
+*/
+
 //Overload operators + and << for the class complex
 //+ should add two complex numbers as (a+ib) + (c+id) = (a+c) + i(b+d)
 //<< should print a complex number in the format "a+ib"
@@ -36,6 +39,7 @@ ostream& operator<< (ostream& os, const Complex& c) {
     return os << c.a << (c.b > 0 ? '+' : '-') << 'i' << c.b;
 }
 
+/*
 int main() {
 	Complex x, y;
 	string s1, s2;
@@ -46,3 +50,4 @@ int main() {
 	Complex z = x + y;
 	cout << z << endl;
 }
+*/

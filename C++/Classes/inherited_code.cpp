@@ -1,8 +1,10 @@
+/*
 #include <iostream>
 #include <string>
 #include <sstream>
 #include <exception>
 using namespace std;
+*/
 
 /* Define the exception here */
 class BadLengthException : public exception {
@@ -17,6 +19,7 @@ class BadLengthException : public exception {
 		int len;
 };
 
+/*
 bool checkUsername(string username) {
 	bool isValid = true;
 	int n = username.length();
@@ -52,3 +55,4 @@ int main() {
 	}
 	return 0;
 }
+*/

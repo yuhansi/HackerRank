@@ -4,3 +4,4 @@
 - [C++/Strings](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/Strings) (https://www.hackerrank.com/domains/cpp/cpp-strings/difficulty/all/page/1)
 - [C++/Classes](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/Classes) (https://www.hackerrank.com/domains/cpp/classes/difficulty/all/page/1)
 - [C++/STL](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/STL) (https://www.hackerrank.com/domains/cpp/stl)
+- [C++/Inheritance](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/Inheritance) (https://www.hackerrank.com/domains/cpp/inheritance)

@@ -6,3 +6,4 @@
 - [C++/STL](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/STL) (https://www.hackerrank.com/domains/cpp/stl)
 - [C++/Inheritance](https://github.com/yuhansi/HackerrankSolutions/tree/master/C%2B%2B/Inheritance) (https://www.hackerrank.com/domains/cpp/inheritance)
 - [Mathematics/Fundamentals](https://github.com/yuhansi/HackerrankSolutions/tree/master/Mathematics/Fundamentals) (https://www.hackerrank.com/domains/mathematics/fundamentals)
+- [Data Structure/Arrays](https://github.com/yuhansi/HackerrankSolutions/tree/master/Data%20Structures/Arrays) (https://www.hackerrank.com/domains/data-structures/arrays/difficulty/all/page/1)

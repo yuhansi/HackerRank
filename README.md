@@ -8,3 +8,4 @@
 - [Mathematics/Fundamentals](https://github.com/yuhansi/HackerrankSolutions/tree/master/Mathematics/Fundamentals) (https://www.hackerrank.com/domains/mathematics/fundamentals)
 - [Data Structure/Arrays](https://github.com/yuhansi/HackerrankSolutions/tree/master/Data%20Structures/Arrays) (https://www.hackerrank.com/domains/data-structures/arrays/difficulty/all/page/1)
 - [Data Structure/Linked Lists](https://github.com/yuhansi/HackerrankSolutions/tree/master/Data%20Structures/Linked%20Lists)(https://www.hackerrank.com/domains/data-structures/linked-lists)
+- [Data Structure/Trees](https://github.com/yuhansi/HackerrankSolutions/tree/master/Data%20Structures/Trees)(https://www.hackerrank.com/domains/data-structures/trees)
